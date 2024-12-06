@@ -9,7 +9,7 @@
 
 - 🌱 **Currently learning:** MERN-focused full-stack development  
 
-- 💬 **Ask me about:** Stereotypical coder questions :/  
+- 💬 **Ask me about:** Algorithms & Development :/  
 
 - 📫 **How to reach me:** [nithyan.4417@gmail.com](mailto:nithyan.4417@gmail.com)
 
@@ -19,6 +19,8 @@
 <a href="https://www.leetcode.com/itz_nitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itz_nitz" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">💻 Languages and Tools 💻</h3>
+<p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
